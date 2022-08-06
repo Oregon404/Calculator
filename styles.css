@@ -43,7 +43,7 @@ body{
 
 .numPad{
     display: flex;
-    flex-direction: row;
+    flex-direction: row-reverse;
     flex-wrap: wrap;
     width: 230px;
     margin: 0;
